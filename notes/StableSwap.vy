@@ -1,5 +1,5 @@
 # @version 0.2.4
-# (c) Curve.Fi, 2020
+# (c) Curve.Fi, 2022
 # Pool for DAI/USDC/USDT
 
 from vyper.interfaces import ERC20
