@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8;
+pragma solidity ^0.81;
 
 import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 import "./interfaces/aave/FlashLoanReceiverBase.sol";
